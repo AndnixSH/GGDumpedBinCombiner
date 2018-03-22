@@ -1,0 +1,1 @@
+Simple batch file that do the job. It combine bin files into one so you don't have to analyze dumped file one by one.
